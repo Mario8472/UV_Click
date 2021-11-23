@@ -1,0 +1,4 @@
+uv_click.c:18:6:UV_Click_Init	8	static
+uv_click.c:32:17:MCP3201_Get_ADC	24	static
+uv_click.c:53:7:Get_UV_Value	32	static
+uv_click.c:79:6:UART_Send_Data	56	static
